@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eymensancar.github.io/eymensancar/sitemap.xml
